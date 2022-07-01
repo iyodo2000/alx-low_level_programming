@@ -1,10 +1,6 @@
 #include <stdio.h>
-
-
-
-
-/** 
- *main - Entry point*
+/**
+ * main - Entry point*
  *
  * Description: 'the program's description
  *
@@ -12,6 +8,7 @@
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art ,\n");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
+
