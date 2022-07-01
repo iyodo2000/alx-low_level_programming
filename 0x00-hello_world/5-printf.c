@@ -2,7 +2,7 @@
 
 int main(void)
 {
-printf("with power grammer, but the outcome of art ,\n";
-		return (0);
+printf("with prop`er grammer, but the outcome of art ,\n");
+return (0);
 
 }
