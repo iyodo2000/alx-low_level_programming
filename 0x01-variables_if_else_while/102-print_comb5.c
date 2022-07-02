@@ -26,10 +26,15 @@ putchar (second_nums % 10 + '0');
 if (first_nums == 98 && second_nums == 99)
 {
 break;
+}
 putchar(',');
 putchar (' ');
+
 }
+
 }
+
 putchar('\n');
+
 return (0);
 }
