@@ -2,11 +2,7 @@
 
 /**
  * main - causes an infinite loop
- *
- *
- *
  * Return: 0
- *
  */
 
 int main(void)
@@ -28,13 +24,13 @@ int main(void)
 	/*
 	 *while (i < 10)
 	 *
-	 *{
+	 * {
 	 *
 	 *Infinite loop - No increase of variable
 	 *
 	 *putchar(i);
 	 *
-	 }
+         * }
 	 *
 	 */
 
@@ -42,4 +38,4 @@ int main(void)
 
 	return (0);
 
-}i
+}
